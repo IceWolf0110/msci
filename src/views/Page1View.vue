@@ -19,26 +19,26 @@
         <div class="grow">
           <div class="h-full grid grid-cols-4 gap-x-4">
             <div class="p-6 bg-slate-400/10 backdrop-blur-sm rounded-xl shadow-xl">
-              <div class="h-10/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
+              <div class="h-11/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
               backgroundImage: `url(${backgroundImage})`
             }"></div>
-              <div class="h-2/12 flex justify-center items-center">
+              <div class="h-1/12 flex justify-center items-end">
                 <h2 class="text-lg">M-SCI Web 3 on Telegram</h2>
               </div>
             </div>
             <div class="p-6 col-span-2 bg-slate-400/10 backdrop-blur-sm rounded-xl shadow-xl">
-              <div class="h-10/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
+              <div class="h-11/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
               backgroundImage: `url(${backgroundImage})`
             }"></div>
-              <div class="h-2/12 flex justify-center items-center">
+              <div class="h-1/12 flex justify-center items-end">
                 <h2 class="text-lg">M-SCI Web 3 on Telegram</h2>
               </div>
             </div>
             <div class="p-6 bg-slate-400/10 backdrop-blur-sm rounded-xl shadow-xl">
-              <div class="h-9/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
+              <div class="h-11/12 rounded-xl bg-cover bg-no-repeat bg-center" :style="{
               backgroundImage: `url(${backgroundImage})`
             }"></div>
-              <div class="h-3/12 flex justify-center items-center">
+              <div class="h-1/12 flex justify-center items-end">
                 <h2 class="text-lg">M-SCI Web 3 on Telegram</h2>
               </div>
             </div>

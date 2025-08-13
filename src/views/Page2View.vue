@@ -6,9 +6,9 @@
 <template>
   <Layout :video="BackgroundVideo" :next-route="'page3'">
     <div class="h-full p-1">
-      <div class="h-full flex flex-col justify-around bg-black/60 backdrop-blur-sm rounded-2xl p-4">
+      <div class="h-full flex flex-col justify-around bg-black/60 backdrop-blur-sm rounded-2xl p-8">
         <div class="mb-3">
-          <h1 class="font-bold text-md">
+          <h1 class="font-bold text-2xl my-4">
             Gameplay Hấp Dẫn, Hệ Sinh Thái Bền Vững
           </h1>
         </div>
@@ -27,8 +27,8 @@
                 </div>
               </div>
               <div class="p-2">
-                <h3 class="font-bold text-sm mb-2">Game PVE (Web3)</h3>
-                <p class="text-xs">
+                <h3 class="font-bold text-md mb-2">Game PVE (Web3)</h3>
+                <p>
                   Trải nghiệm chiến đấu với Boss, vượt màn đầy thử thách, nơi người chơi phải linh hoạt chuyển đổi nhân
                   vật và kỹ năng để chiến thắng, nhận về các NFT giá trị.
                 </p>
@@ -46,8 +46,8 @@
                 </div>
               </div>
               <div class="p-2">
-                <h3 class="font-bold text-sm mb-2">Game MOBA (Web2)</h3>
-                <p class="text-xs">
+                <h3 class="font-bold text-md mb-2">Game MOBA (Web2)</h3>
+                <p>
                   Trải nghiệm "Người Nhện cầm Súng" độc đáo. Những trận đấu súng trên không, đu dây giữa các tòa nhà và
                   các pha đột kích với tốc độ nghẹt thở, đòi hỏi kỹ năng cá nhân và chiến thuật đồng đội đỉnh cao.
                 </p>
@@ -65,8 +65,8 @@
                 </div>
               </div>
               <div class="p-2">
-                <h3 class="font-bold text-sm mb-2">Kết Nối Hệ Sinh Thái</h3>
-                <p class="text-xs">
+                <h3 class="font-bold text-md mb-2">Kết Nối Hệ Sinh Thái</h3>
+                <p>
                   Phần thưởng từ PVE (NFT Anh Hùng) được sử dụng trực tiếp trong MOBA. Chiến thắng trong MOBA mở khóa nội
                   dung trong hệ sinh thái "Read-and-Earn".
                 </p>
@@ -86,7 +86,7 @@
             </p>
           </div>
 
-          <div class="grid grid-cols-3 p-3 mb-6">
+          <div class="grid grid-cols-3 p-6 mb-3">
             <div>
               <div class="flex relative h-12 bg-blue-700 w-11/12 items-center justify-center mb-3">
                 <div class="absolute -left-6 w-6  overflow-hidden inline-block">
@@ -100,7 +100,7 @@
                     class="absolute -right-6 border-solid border-l-blue-700  border-l-24 border-y-transparent border-y-24 border-r-0"></div>
               </div>
               <div>
-                <h3 class="font-medium text-lg mb-3">
+                <h3 class="font-medium text-md">
                   KHÁM PHÁ
                 </h3>
                 <p>
@@ -121,7 +121,7 @@
                     class="absolute -right-6 border-solid border-l-blue-700  border-l-24 border-y-transparent border-y-24 border-r-0"></div>
               </div>
               <div>
-                <h3 class="font-medium text-lg mb-3">
+                <h3 class="font-medium text-md">
                   CHỨNG TỎ
                 </h3>
                 <p>
@@ -142,7 +142,7 @@
                     class="absolute -right-6 border-solid border-l-blue-700  border-l-24 border-y-transparent border-y-24 border-r-0"></div>
               </div>
               <div>
-                <h3 class="font-medium text-lg mb-3">
+                <h3 class="font-medium text-md">
                   NHẬN THƯỞNG
                 </h3>
                 <p>
@@ -153,7 +153,7 @@
           </div>
 
           <div class="mb-6">
-            <h2 class="font text-2xl mb-3">
+            <h2 class="font text-md mb-3">
               Tokenomics Bền Vững
             </h2>
             <p>
