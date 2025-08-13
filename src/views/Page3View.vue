@@ -5,7 +5,7 @@
 
 <template>
   <Layout :video="BackgroundVideo" :next-route="'page4'">
-    <div class="h-full container mx-auto flex flex-col justify-around">
+    <div class="h-full container mx-auto flex flex-col justify-around p-8">
       <h1 class="font-bold text-4xl">
         Quan Hệ Đối Tác Chiến Lược
       </h1>

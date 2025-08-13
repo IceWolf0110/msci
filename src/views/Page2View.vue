@@ -4,10 +4,10 @@
 </script>
 
 <template>
-  <Layout :video="BackgroundVideo" :next-route="'page3'">
-      <div class="h-full container mx-auto">
+  <Layout :video="BackgroundVideo">
+      <div class="h-full container mx-auto px-8 pt-6">
         <div class="h-full flex flex-col justify-around">
-          <h1 class="font-bold text-2xl my-4">
+          <h1 class="font-bold text-2xl mb-4">
             Gameplay Hấp Dẫn, Hệ Sinh Thái Bền Vững
           </h1>
 

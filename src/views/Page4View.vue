@@ -4,8 +4,8 @@
 </script>
 
 <template>
-  <Layout :video="BackgroundVideo" :next-route="'page5'">
-    <div class="h-full container mx-auto flex flex-col justify-around">
+  <Layout :video="BackgroundVideo">
+    <div class="h-full container mx-auto flex flex-col justify-around p-8">
       <h1 class="font-bold text-3xl my-6">
         Kiến Trúc Vượt Trội Trên Subnet
       </h1>
