@@ -6,7 +6,7 @@
 
 <template>
   <Layout :video="BackgroundVideo" :next-route="'page2'">
-    <div class="h-full flex flex-col justify-around p-8">
+    <div class="h-full container mx-auto flex flex-col justify-around p-8">
       <div class="mb-3 text-4xl font-bold uppercase">
         <h1 class="mb-6">
           M-SCI: THE GAMEFI UNIVERSE
