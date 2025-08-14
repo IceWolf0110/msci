@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <Layout :video="BackgroundVideo" :next-route="'page7'">
+  <Layout :video="BackgroundVideo">
     <div class="h-full container mx-auto flex flex-col justify-around p-8">
       <h1 class="font-medium text-5xl mb-8">
         Tầm Nhìn & Lộ Trình

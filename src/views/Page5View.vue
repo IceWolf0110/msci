@@ -1,7 +1,7 @@
 <script setup>
   import Layout from "@/components/Layout.vue";
   import BackgroundVideo from '@/assets/videos/home_bg.mp4'
-  import backgroundImage from '@/assets/images/image-not-available.webp'
+  import backgroundImage from '@/assets/images/page5.jpg'
 </script>
 
 <template>
